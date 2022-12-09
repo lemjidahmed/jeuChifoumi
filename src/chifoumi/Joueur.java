@@ -23,7 +23,7 @@ public class Joueur {
 	}
 	public void ecrireScore()
 	{
-		System.out.println("le score de "+this.nom+" est "+this.score);
+		System.out.println("le score de joueur "+this.nom+" est "+this.score);
 	}
 	public String getNom()
 	{
