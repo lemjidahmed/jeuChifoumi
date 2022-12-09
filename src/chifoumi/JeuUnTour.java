@@ -50,7 +50,7 @@ public class JeuUnTour {
 		}
 		else if(joueur1.getScore()<joueur2.getScore())
 		{
-			System.out.println(joueur2.getNom()+ " est le gagnant! ");
+			System.out.println(joueur2.getNom()+ " est le gagnant!!! ");
 		}
 		else
 		{
